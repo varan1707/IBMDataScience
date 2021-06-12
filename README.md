@@ -1,2 +1,2 @@
 # IBMDataScience
-This repository contains the guided projects that were a part of the data science course
+This repository contains the guided projects that were a part of the IBM data science course
